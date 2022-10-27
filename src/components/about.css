@@ -1,0 +1,16 @@
+.about-section {
+ height: 700px;
+ background-color: #191919;
+ width: 100%;
+ margin-top: 150px;
+
+}
+
+.about-section img {
+    position: relative;
+    bottom: 130px;
+    border-radius: 10px;
+    margin-left: 70px;
+    
+}
+
