@@ -14,7 +14,7 @@ function App() {
 		<div className='App'>
 			<Navbar expand='lg'>
 				<Navbar.Brand>
-					<img src={logo} />
+					<img src={logo} alt='logo' />
 				</Navbar.Brand>
 
 				<Navbar.Toggle class='bg light position-absolute top-20 start-100 translate-middle' />
